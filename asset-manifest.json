@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Machanents/static/css/main.e8bc6103.chunk.css",
-    "main.js": "/Machanents/static/js/main.bb50ab62.chunk.js",
-    "main.js.map": "/Machanents/static/js/main.bb50ab62.chunk.js.map",
+    "main.js": "/Machanents/static/js/main.7d9c6512.chunk.js",
+    "main.js.map": "/Machanents/static/js/main.7d9c6512.chunk.js.map",
     "runtime-main.js": "/Machanents/static/js/runtime-main.b9071731.js",
     "runtime-main.js.map": "/Machanents/static/js/runtime-main.b9071731.js.map",
     "static/css/2.b5bba51d.chunk.css": "/Machanents/static/css/2.b5bba51d.chunk.css",
-    "static/js/2.6b8559db.chunk.js": "/Machanents/static/js/2.6b8559db.chunk.js",
-    "static/js/2.6b8559db.chunk.js.map": "/Machanents/static/js/2.6b8559db.chunk.js.map",
+    "static/js/2.dc63d457.chunk.js": "/Machanents/static/js/2.dc63d457.chunk.js",
+    "static/js/2.dc63d457.chunk.js.map": "/Machanents/static/js/2.dc63d457.chunk.js.map",
     "index.html": "/Machanents/index.html",
     "static/css/2.b5bba51d.chunk.css.map": "/Machanents/static/css/2.b5bba51d.chunk.css.map",
     "static/css/main.e8bc6103.chunk.css.map": "/Machanents/static/css/main.e8bc6103.chunk.css.map",
-    "static/js/2.6b8559db.chunk.js.LICENSE.txt": "/Machanents/static/js/2.6b8559db.chunk.js.LICENSE.txt",
+    "static/js/2.dc63d457.chunk.js.LICENSE.txt": "/Machanents/static/js/2.dc63d457.chunk.js.LICENSE.txt",
     "static/media/Image.de968786.png": "/Machanents/static/media/Image.de968786.png",
     "static/media/girl.7099ca46.png": "/Machanents/static/media/girl.7099ca46.png",
     "static/media/logop.d862a49e.png": "/Machanents/static/media/logop.d862a49e.png",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.b9071731.js",
     "static/css/2.b5bba51d.chunk.css",
-    "static/js/2.6b8559db.chunk.js",
+    "static/js/2.dc63d457.chunk.js",
     "static/css/main.e8bc6103.chunk.css",
-    "static/js/main.bb50ab62.chunk.js"
+    "static/js/main.7d9c6512.chunk.js"
   ]
 }
