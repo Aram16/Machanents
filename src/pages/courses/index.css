@@ -1,0 +1,157 @@
+#courses{
+    width: 100%;
+    height: 120vh;
+}
+@media (max-width:500px) {
+  #courses{
+    margin-top: 320%;
+  }
+}
+#courses > h1 {
+    color: #E35205;
+    padding: 15px;
+    text-align: center;
+    align-items: center;
+}
+#courses > p{
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    letter-spacing: 0.6em;
+    color: #5E8AB4;
+    padding-bottom: 4%;
+}
+@media (max-width:600px) {
+    #courses > p{
+        font-size: 19px;
+        text-align: center;
+        color: #5E8AB4
+    }
+}
+.navv > .nav-header {
+  display: inline;
+} 
+@media (min-width:600px) {
+  .navv > .nav-header > .nav-title > a {
+    padding-left: 40%;
+  }
+  .navv > .navigation {
+    padding-right: 4%;
+  }
+}
+@media (max-width:600px) {
+  .ereq-ket {
+    margin-left: 1em;
+  }
+}
+
+.navv > .nav-header > .nav-title {
+  display: inline-block;
+  padding: 2px 10px 2px 10px;
+}
+.navv > .ereq-ket {
+  display: none;
+}
+
+.navv > .navigation {
+  display: inline;
+  float: right;
+  font-size: 18px;
+  
+}
+ .droosh {
+  text-align: center;
+  align-items: center;
+  width: 30px;
+}
+
+.navv > .navigation > a {
+  display: inline-block;
+  padding: 13px 10px 13px 10px;
+  text-decoration: none;
+  color: black;
+}
+.Link > a {
+  color: black;
+  text-decoration: none;
+}
+.navv > #nav-courses {
+  display: none;
+}
+@media (max-width:600px) {
+  .navv > .ereq-ket {
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+  }
+  .navv > .ereq-ket > label {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 13px;
+  }
+  
+  .navv > .ereq-ket > label > span {
+    display: block;
+    width: 25px;
+    height: 10px;
+    border-top: 2px solid black;
+  }
+  .navv > .navigation {
+    position: absolute;
+    display: block;
+    width: 100%;
+    background-color: gray;
+    height: 0px;
+    transition: all 0.3s ease-in;
+    overflow-y: hidden;
+    top: 50px;
+    left: 0px;
+  }
+  .navv > .navigation > a {
+    display: block;
+    width: 100%;
+  }
+  .navv > #nav-courses:not(:checked) ~ .navigation {
+    height: 0px;
+  }
+  .navv > #nav-courses:checked ~ .navigation {
+    height: calc(100vh - 50px);
+    overflow-y: auto;
+  }
+}
+.Link {
+    color: #E35205;
+    text-decoration: none;
+  }
+.cours-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cours-div > div {
+    padding: 10px;
+    margin: 20px;
+    width: 420px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #FFFFFF;
+    box-shadow: 15px 15px 35px 5px rgba(0, 0, 0, 0.15);
+    border-radius: 35px; 
+    text-decoration: none;
+    color: #E35205;   
+}
+@media (max-width:600px) {
+    .cours-div{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-around;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin-left: 10%;
+  }
+}

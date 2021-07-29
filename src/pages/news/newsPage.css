@@ -1,0 +1,22 @@
+@media(max-width:600px) {
+      #news {
+        margin-top: 60%;
+      }
+}
+.news-h1 {
+    color: #E35205;
+  text-align: center;
+  align-items: center;
+  font-size: 28px;
+}
+.news-inovation {
+  text-align: center;
+  align-items: center;
+  color: #A0072B;
+  letter-spacing: 5px;
+  padding-bottom: 2%;
+
+}
+.all-news  {
+    padding: 20px;
+}

@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@media (max-width: 600px) {
+  .navv > #nav-checkk:not(:checked) ~ .navigation {
+    height: 0px;
+  }
+  .navv > #nav-checkk:checked ~ .navigation {
+    height: calc(100vh - 50px);
+    overflow-y: auto;
+  }
+  .navv > #nav-courses:not(:checked) ~ .navigation {
+    height: 0px;
+  }
+  .navv > #nav-courses:checked ~ .navigation {
+    height: calc(100vh - 50px);
+    overflow-y: auto;
+  }
+  .navv > #nav-news:not(:checked) ~ .navigation {
+    height: 0px;
+  }
+  .navv > #nav-news:checked ~ .navigation {
+    height: calc(100vh - 50px);
+    overflow-y: auto;
+  }
+  .navv > #nav-about:not(:checked) ~ .navigation {
+    height: 0px;
+  }
+  .navv > #nav-about:checked ~ .navigation {
+    height: calc(100vh - 50px);
+    overflow-y: auto;
+  }
+  .navv > #nav-bar:not(:checked) ~ .navigation {
+    height: 0px;
+  }
+  .navv > #nav-bar:checked ~ .navigation {
+    height: calc(100vh - 50px);
+    overflow-y: auto;
+  }
+}
