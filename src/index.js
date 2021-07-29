@@ -16,7 +16,7 @@ import './index.css';
 
 const App = () => {
     return (
-        <BrowserRouter>
+        <HashRouter>
           <div>
             <Switch>
               <Route exact path="/" component={WelcomePage} />
@@ -32,7 +32,7 @@ const App = () => {
             </Switch>
           </div>
 
-        </BrowserRouter>
+        </HashRouter>
     );
 };
 
