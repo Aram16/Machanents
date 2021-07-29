@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Machanents/static/css/main.e8bc6103.chunk.css",
+    "main.js": "/Machanents/static/js/main.bb50ab62.chunk.js",
+    "main.js.map": "/Machanents/static/js/main.bb50ab62.chunk.js.map",
+    "runtime-main.js": "/Machanents/static/js/runtime-main.b9071731.js",
+    "runtime-main.js.map": "/Machanents/static/js/runtime-main.b9071731.js.map",
+    "static/css/2.b5bba51d.chunk.css": "/Machanents/static/css/2.b5bba51d.chunk.css",
+    "static/js/2.6b8559db.chunk.js": "/Machanents/static/js/2.6b8559db.chunk.js",
+    "static/js/2.6b8559db.chunk.js.map": "/Machanents/static/js/2.6b8559db.chunk.js.map",
+    "index.html": "/Machanents/index.html",
+    "static/css/2.b5bba51d.chunk.css.map": "/Machanents/static/css/2.b5bba51d.chunk.css.map",
+    "static/css/main.e8bc6103.chunk.css.map": "/Machanents/static/css/main.e8bc6103.chunk.css.map",
+    "static/js/2.6b8559db.chunk.js.LICENSE.txt": "/Machanents/static/js/2.6b8559db.chunk.js.LICENSE.txt",
+    "static/media/Image.de968786.png": "/Machanents/static/media/Image.de968786.png",
+    "static/media/girl.7099ca46.png": "/Machanents/static/media/girl.7099ca46.png",
+    "static/media/logop.d862a49e.png": "/Machanents/static/media/logop.d862a49e.png",
+    "static/media/rectangle-12.93e6c141.png": "/Machanents/static/media/rectangle-12.93e6c141.png",
+    "static/media/rectangle-13.d7cb0777.png": "/Machanents/static/media/rectangle-13.d7cb0777.png",
+    "static/media/rectangle-14.65f378ca.png": "/Machanents/static/media/rectangle-14.65f378ca.png",
+    "static/media/rectangle-15.c388f3f0.png": "/Machanents/static/media/rectangle-15.c388f3f0.png",
+    "static/media/rectangle-16.812963a7.png": "/Machanents/static/media/rectangle-16.812963a7.png",
+    "static/media/rectangle-17.71d54d4b.png": "/Machanents/static/media/rectangle-17.71d54d4b.png",
+    "static/media/rectangle-18.34e414b0.png": "/Machanents/static/media/rectangle-18.34e414b0.png",
+    "static/media/rectangle-19.41410d43.png": "/Machanents/static/media/rectangle-19.41410d43.png",
+    "static/media/rectangle-20.d8cbbe8e.png": "/Machanents/static/media/rectangle-20.d8cbbe8e.png",
+    "static/media/rectangle-5.aa7f7fbf.png": "/Machanents/static/media/rectangle-5.aa7f7fbf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9071731.js",
+    "static/css/2.b5bba51d.chunk.css",
+    "static/js/2.6b8559db.chunk.js",
+    "static/css/main.e8bc6103.chunk.css",
+    "static/js/main.bb50ab62.chunk.js"
+  ]
+}
