@@ -16,23 +16,23 @@ import './index.css';
 
 const App = () => {
     return (
-        <HashRouter>
+        <BrowserRouter>
           <div>
             <Switch>
               <Route exact path="/" component={WelcomePage} />
               <Route exact path="/allNews" component={AllNewsPage} />
               <Route exact path="/contact" component={ContactPage} />
-                <Route exact path="/courses" component={CoursPage} />
+              <Route exact path="/courses" component={CoursPage} />
               <Route exact path="/aboutUs" component={AboutUsPage} />
               <Route exact path="/events" component={EventPage} />
               <Route exact path="/chessLaboratory" component={ChessPage} />
-                <Route exact path="/mediaLaboratory" component={MediaPage} />/
-                <Route exact path="/programmingLaboratory" component={ProgrammingPage} />
-                <Route exact path="/enginnerLaboratory" component={EnginnerPage} />
+              <Route exact path="/mediaLaboratory" component={MediaPage} />/
+              <Route exact path="/programmingLaboratory" component={ProgrammingPage} />
+              <Route exact path="/enginnerLaboratory" component={EnginnerPage} />
             </Switch>
           </div>
 
-        </HashRouter>
+        </BrowserRouter>
     );
 };
 
