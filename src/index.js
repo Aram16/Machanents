@@ -17,9 +17,8 @@ import './index.css';
 const App = () => {
     return (
         <BrowserRouter>
-          <div>
             <Switch>
-              <Route exact path="/" component={WelcomePage} />
+              <Route path="/" component={WelcomePage} />
               <Route exact path="/allNews" component={AllNewsPage} />
               <Route exact path="/contact" component={ContactPage} />
               <Route exact path="/courses" component={CoursPage} />
@@ -30,8 +29,6 @@ const App = () => {
               <Route exact path="/programmingLaboratory" component={ProgrammingPage} />
               <Route exact path="/enginnerLaboratory" component={EnginnerPage} />
             </Switch>
-          </div>
-
         </BrowserRouter>
     );
 };
