@@ -44,9 +44,13 @@ const WelcomePage = () => {
               <div className="navigation">
                       <a href="#about">{t("About")}</a>
                       <a href="#news">{t("News")}</a>
-                      <Link to="/events" className="Link"><a href="">{t("Events")}</a></Link>
+                      <Link to="/events" className="Link"><a href="">
+                        {t("Events")}</a>
+                      </Link>
                       <a href="#courses">{t("Courses")}</a>
-                      <Link to="/contact" className="Link"><a href="">{t("Contact")}</a></Link>
+                      <Link to="/Machanents/contact" className="Link">
+                        <a href="">{t("Contact")}</a>
+                      </Link>
                       <div onClick={() => onClick("hy")} className="navigation-div">
                         <img className="droosh" src={armenia} alt="armenia" />
                       </div>
